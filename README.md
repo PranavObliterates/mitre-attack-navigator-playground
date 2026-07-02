@@ -10,6 +10,11 @@ A collection of hands-on MITRE ATT&CK Navigator exercises focused on threat acto
 - Visualize security data using ATT&CK Navigator
 - Develop practical threat hunting and SOC analysis skills
 
+- ## 📂 Labs
+
+- **Sable Bluff** – Analysis of APT29, DarkComet, and Active Directory Configuration mitigations.
+
+
 ## 🛡️ Skills Demonstrated
 
 - MITRE ATT&CK Framework
@@ -26,10 +31,6 @@ A collection of hands-on MITRE ATT&CK Navigator exercises focused on threat acto
 - MITRE ATT&CK Navigator
 - MITRE ATT&CK Framework
 - ATT&CK Data Sources
-
-## 📂 Labs
-
-- **Sable Bluff** – Analysis of APT29, DarkComet, and Active Directory Configuration mitigations.
 
 ## 👨‍💻 Author
 
